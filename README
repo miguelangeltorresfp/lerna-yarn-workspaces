@@ -1,0 +1,15 @@
+# TUTORIAL SOBRE YARN WORKSPACES Y LERNA BY BEN AWAD
+
+* [Yarn Workspaces Tutorial](https://www.youtube.com/watch?v=G8KXFWftCg0)
+
+* [How to use Lerna](https://www.youtube.com/watch?v=p6qoJ4apCjA) 
+
+* github repo - [link](https://github.com/benawad/yarn-workspaces-example/)
+
+## How to echo npm variables in window
+
+* [link](https://stackoverflow.com/questions/60092316/get-version-in-npm-preversion-script)
+
+* Install in the root of the monorepo - `yarn add -D -W cross-var`
+
+* List all npm variables from a package - `npm run env`
